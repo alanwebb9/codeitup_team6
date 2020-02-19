@@ -72,6 +72,8 @@ Stretch Goals (will be met if we have additional time)
 
 
 Logical Architecture Diagram:
+![Image of Logical Architecture Diagram](https://github.com/alanwebb9/codeitup_team6/images/logicalDiagram.png)
+
 
  
 
