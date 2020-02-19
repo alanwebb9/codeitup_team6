@@ -72,13 +72,15 @@ Stretch Goals (will be met if we have additional time)
 
 
 Logical Architecture Diagram:
-![Image of Logical Architecture Diagram](https://github.com/alanwebb9/codeitup_team6/images/logicalDiagram.png)
+![Image of Logical Architecture Diagram](https://github.com/alanwebb9/codeitup_team6/blob/master/images/logicalDiagram.png)
 
 
  
 
 
 UML Class Diagram:
+![Image of Class Diagram](https://github.com/alanwebb9/codeitup_team6/blob/master/images/classDiagram.png)
+
 
 
  
