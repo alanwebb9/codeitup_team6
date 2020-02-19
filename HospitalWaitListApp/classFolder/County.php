@@ -15,7 +15,7 @@ class County {
     //put your code here
     private $name;
     
-    function _construct($county_name)
+    function _construct($county_name, $county_eircodes)
     {
         $this->name = $county_name;
     }

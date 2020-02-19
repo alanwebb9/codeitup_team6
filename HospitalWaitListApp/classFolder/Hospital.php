@@ -14,12 +14,16 @@
 class Hospital {
     //put your code here
     private $name;
+    private $address;
+    private $eircode;
     private $county;
     private $treatments = array();
     
-    function _construct($hospital_name, $hospital_county, $hospital_treatments)
+    function _construct($hospital_name, $hospital_address, $hospital_eircode, $hospital_county, $hospital_treatments)
     {
         $this->name = $hospital_name;
+        $this->address = $hospital_address;
+        $this->eircode = $hospital_eircode;
         $this->county = $hospital_county;
         $this->treatments = $hospital_treatments;
     }
@@ -31,8 +35,12 @@ class Hospital {
     {
         return $this->treatments;
     }
-    function _getCounty()
+    function _getAddress()
     {
-        return $this->county;
+        return $this->address;
+    }
+    function _getEircode()
+    {
+        return $this->eircode;
     }
 }
